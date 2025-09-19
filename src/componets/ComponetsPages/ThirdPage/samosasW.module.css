@@ -1,0 +1,193 @@
+article ul {
+  padding-left: 40px;
+}
+
+.SamosasWContainer {
+  margin: 10px;
+  overflow: hidden;
+  font-family: sans-serif;
+  color: #3a3a3a;
+}
+
+.SamosasWContents {
+  background-color: #fff;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+}
+
+.SamosasWInfo {
+  padding: 30px;
+}
+
+.SamosasWContainer img {
+  width: 100%;
+  max-height: 500px;
+  object-fit: cover;
+  opacity: 10;
+  filter: brightness(80%);
+}
+
+.SamosasW h1 {
+  font-size: 40px;
+  font-family: sans-serif;
+  font-weight: 300;
+  color: #3a3a3a;
+}
+
+header p {
+  font-size: 17px;
+  color: #b2b2b2;
+}
+
+article p {
+  line-height: 30px;
+}
+
+article h3 {
+  font-size: 27px;
+  font-weight: bold;
+}
+
+article h4 {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+article ul {
+  line-height: 30px;
+}
+
+article ol {
+  line-height: 30px;
+}
+
+.infoButtom {
+  color: #b2b2b2;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+.nextComponent {
+  transition: transform 0.3s ease;
+}
+
+.nextComponent:hover {
+  transform: translateX(-5px);
+}
+.nextComponent2 {
+  transition: transform 0.3s ease;
+}
+
+.nextComponent2:hover {
+  transform: translateX(5px);
+}
+
+.commentArea {
+  background-color: #fff;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+  margin-top: 30px;
+  padding: 30px;
+  border-radius: 5px;
+}
+
+.commentArea textarea {
+  width: 100%;
+  height: 300px;
+  font-size: 18px;
+}
+
+.userInfo {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+  padding: 10px;
+  width: 50%;
+  font-size: 17px;
+}
+
+.button {
+  background-color: transparent;
+  border: none;
+  border: 1px solid #b2b2b2;
+  font-size: 15px;
+  padding: 10px;
+  cursor: pointer;
+  color: #3a3a3a;
+  transition: color 0.3s, border-color 0.3s;
+  border-radius: 5px;
+}
+
+.button:hover {
+  color: rgb(250, 127, 148);
+  border-color: rgb(250, 127, 148);
+}
+
+/* For mobile responsiveness */
+@media (max-width: 768px) {
+  .SamosasWInfo {
+    padding: 20px;
+  }
+
+  .SamosasWInfo h1 {
+    font-size: 30px;
+  }
+
+  header p {
+    font-size: 14px;
+  }
+
+  article p {
+    line-height: 25px;
+  }
+
+  article h3 {
+    font-size: 22px;
+  }
+
+  article h4 {
+    font-size: 20px;
+  }
+
+  .commentArea textarea {
+    height: 200px;
+  }
+
+  .userInfo {
+    width: 93%;
+  }
+
+  .button {
+    font-size: 14px;
+    padding: 8px;
+  }
+
+  .nextComponent {
+    font-size: 13px;
+  }
+  .nextComponent2 {
+    font-size: 13px;
+  }
+
+  .categoryLink {
+    font-size: 13px;
+  }
+}
+
+/* For screens smaller than 480px */
+@media (max-width: 480px) {
+  .SamosasWContainer {
+    margin: 10px;
+  }
+
+  .SamosasWInfo h1 {
+    font-size: 24px;
+  }
+
+  article p {
+    font-size: 16px;
+  }
+
+  .commentArea {
+    padding: 20px;
+  }
+}

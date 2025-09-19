@@ -1,0 +1,31 @@
+/* Container for pagination */
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  margin-top: 20px;
+  background-color: #aaaaaa;
+  padding: 10px;
+}
+
+/* Styling for pagination numbers */
+.pageNumber {
+  color: rgb(237, 14, 148);
+  font-size: 16px;
+  cursor: pointer;
+  padding: 5px 10px;
+  border-radius: 5px;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Styling for active page */
+.active {
+  background-color: black;
+  color: white;
+}
+
+/* Hover effect for pagination numbers */
+.pageNumber:hover {
+  background-color: rgba(0, 0, 0, 0.1);
+}

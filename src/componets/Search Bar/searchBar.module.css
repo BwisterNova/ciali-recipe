@@ -1,0 +1,58 @@
+.searchBarContainer {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  position: relative;
+  align-items: center;
+}
+.searchInput {
+  width: 100%;
+  padding: 8px;
+}
+
+.suggestionMenu {
+  background-color: blueviolet;
+}
+
+.suggestionsList {
+  position: absolute;
+  top: 100%;
+  background: rgba(93, 93, 93, 0.5);
+  border: 1px solid #ddd;
+  z-index: 10;
+  list-style: none;
+  width: 50%;
+  border-radius: 10px;
+  margin-top: 10px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.4);
+  backdrop-filter: blur(5px);
+}
+.suggestionItem {
+  padding: 8px;
+  cursor: pointer;
+  list-style: none;
+  margin: 0;
+  color: #fff;
+  transition: transform 0.3s ease;
+}
+.suggestionItem:hover {
+  background: #f3f3f3;
+  transform: scale(1.02);
+  color: pink;
+}
+
+.searchIcon {
+  font-size: 22px;
+  cursor: pointer;
+  margin-left: -30px;
+}
+
+.searchIcon:hover {
+  color: pink;
+}
+
+@media (max-width: 768px) {
+  .suggestionsList {
+    width: 90%;
+  }
+}

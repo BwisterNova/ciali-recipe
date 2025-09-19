@@ -1,0 +1,122 @@
+.contactContainer {
+  max-width: 1000px;
+  margin: 10px auto;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.contactImage {
+  background-image: url("../img/LagosCityScape.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  text-align: center;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+.contactImage h2 {
+  margin: 0;
+  font-size: 2.5rem;
+}
+
+.contactImage p {
+  margin: 10px 0 0;
+  font-size: 1.2rem;
+  color: white;
+}
+
+.getInTouchContainer {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+}
+
+.getInTouchContainer p {
+  text-align: justify;
+}
+
+.getInTouchContainer h3 {
+  margin-top: 0;
+}
+
+/* Container for the contact information */
+.contactInfo {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.contactInfo div {
+  display: flex;
+  align-items: center;
+}
+
+.contactInfo div .icon {
+  margin-right: 10px;
+  color: #2dc2c2;
+}
+
+.contactInfo div h4 {
+  margin: 0;
+
+  margin-right: 10px;
+}
+
+.contactInfo div p {
+  margin: 0;
+}
+
+.contactFormContainer {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+}
+
+.contactForm {
+  display: flex;
+  flex-direction: column;
+}
+
+.formGroup {
+  margin-bottom: 15px;
+}
+
+.formGroup label {
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+.formGroup input,
+.formGroup textarea {
+  width: 97%;
+  padding: 10px;
+  border: 1px solid #c3baba;
+  outline: none;
+  border-radius: 4px;
+}
+
+.submitButton {
+  padding: 10px 20px;
+  background: transparent;
+  color: #2dc2c2;
+  border: 1px solid;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.submitButton:hover {
+  background-color: pink;
+  color: white;
+}

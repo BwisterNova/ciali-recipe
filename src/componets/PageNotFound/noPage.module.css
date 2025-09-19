@@ -1,0 +1,37 @@
+.NoPageContainer {
+  background: #ffffff;
+  display: flex;
+  flex-direction: column;
+  margin: 50px;
+  padding: 70px;
+  justify-items: center;
+  align-items: center;
+}
+
+.NoPageContainer a {
+  color: pink;
+  text-decoration: none;
+}
+
+.NoPageContainer h3 {
+  font-size: 35px;
+}
+
+.NoPageContainer p {
+  font-size: 20px;
+}
+
+@media (max-width: 768px) {
+  .NoPageContainer {
+    margin: 10px;
+    padding: 20px;
+  }
+
+  .NoPageContainer h3 {
+    font-size: 23px;
+  }
+
+  .NoPageContainer p {
+    font-size: 15px;
+  }
+}
