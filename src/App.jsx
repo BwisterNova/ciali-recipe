@@ -107,9 +107,12 @@ function App() {
     window.scrollTo({ top: 0, behavior: "smooth" });
   };
 
+  // Dynamically set basename for Router
+  const routerBasename =
+    import.meta.env.DEPLOY_TARGET === "GH" ? "/ciali-recipe" : undefined;
   return (
     <>
-      <Router>
+      <Router basename={routerBasename}>
         <Header />
         <Routes>
           <Route path="/" element={<Receipes />} />
