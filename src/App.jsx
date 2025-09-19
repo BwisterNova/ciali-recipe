@@ -107,16 +107,14 @@ function App() {
     window.scrollTo({ top: 0, behavior: "smooth" });
   };
 
-  // // Dynamically set basename for Router
-  // const routerBasename =
-  //   import.meta.env.DEPLOY_TARGET === "GH" ? "/ciali-recipe" : undefined;
+  // Dynamically set basename for Router
+  const routerBasename =
+    import.meta.env.DEPLOY_TARGET === "GH" ? "/ciali-recipe" : undefined;
   return (
     <>
-      {/* <Router basename={routerBasename}> */}
-      <Router>
+      <Router basename={routerBasename}>
         <Header />
         <Routes>
-          <Route path="/" element={<Receipes />} />
           <Route path="/category/dinner" element={<DinnerNav />} />
           <Route path="/category/lunch" element={<Lunch />} />
           <Route path="/category/desserts" element={<Desserts />} />
