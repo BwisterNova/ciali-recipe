@@ -4,7 +4,7 @@ import {
   FiFolder,
 } from "react-icons/fi";
 import styles from "./holePancake.module.css";
-import HolePancakeImage from "./Images/imageye___-_Easy-Thousand-Hole-Pancakes.jpeg";
+import HolePancakeImage from "./Images/HolePancakeImage.jpeg";
 import { useNavigate, useLocation } from "react-router-dom";
 import { useEffect } from "react";
 

@@ -4,7 +4,7 @@ import {
   FiFolder,
 } from "react-icons/fi";
 import styles from "./pumpkinStuffed.module.css";
-import PumpkinStuffedImage from "./Images/imageye___-_Pumpkin-Stuffed-with-Mushrooms-Onions-and-Bacon.jpeg";
+import PumpkinStuffedImage from "./Images/PumpkinStuffedImage.jpeg";
 import { useNavigate, useLocation } from "react-router-dom";
 import { useEffect } from "react";
 

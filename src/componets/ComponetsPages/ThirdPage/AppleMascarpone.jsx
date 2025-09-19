@@ -4,7 +4,7 @@ import {
   FiFolder,
 } from "react-icons/fi";
 import styles from "./appleMascarpone.module.css";
-import AppleMascarponeImage from "./Images/imageye___-_Apple-Mascarpone-Cake.jpeg";
+import AppleMascarponeImage from "./Images/AppleMascarponeImage.jpeg";
 import { useNavigate, useLocation } from "react-router-dom";
 import { useEffect } from "react";
 

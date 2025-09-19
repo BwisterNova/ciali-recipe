@@ -4,7 +4,7 @@ import {
   FiFolder,
 } from "react-icons/fi";
 import styles from "./bakedButternut.module.css";
-import BakedButternutImage from "./Images/imageye___-_Baked-Butternut-Squash-Gratin-with-Comte-and-Thyme.jpeg";
+import BakedButternutImage from "./Images/BakedButternutImage.jpeg";
 import { useNavigate, useLocation } from "react-router-dom";
 import { useEffect } from "react";
 

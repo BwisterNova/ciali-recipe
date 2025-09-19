@@ -4,7 +4,7 @@ import {
   FiFolder,
 } from "react-icons/fi";
 import styles from "./avocadoS.module.css";
-import AvocadoSImage from "./Images/imageye___-_Avocado-Shrimp-and-Cream-Cheese-Verrines.jpeg";
+import AvocadoSImage from "./Images/AvocadoSImage.jpeg";
 import { useNavigate, useLocation } from "react-router-dom";
 import { useEffect } from "react";
 

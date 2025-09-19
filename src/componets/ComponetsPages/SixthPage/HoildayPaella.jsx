@@ -4,7 +4,7 @@ import {
   FiFolder,
 } from "react-icons/fi";
 import styles from "./holidayPaella.module.css";
-import HolidayPaellaImage from "./Images/imageye___-_My-holiday-paella.jpeg";
+import HolidayPaellaImage from "./Images/HolidayPaellaImage.jpeg";
 import { useNavigate, useLocation } from "react-router-dom";
 import { useEffect } from "react";
 

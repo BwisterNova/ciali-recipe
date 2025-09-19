@@ -4,7 +4,7 @@ import {
   FiFolder,
 } from "react-icons/fi";
 import styles from "./alsatianChristmas.module.css";
-import AlsatianChristmasImage from "./Images/imageye___-_Alsatian-Christmas-Stollen.jpeg";
+import AlsatianChristmasImage from "./Images/AlsatianChristmasImage.jpeg";
 import { useNavigate, useLocation } from "react-router-dom";
 import { useEffect } from "react";
 

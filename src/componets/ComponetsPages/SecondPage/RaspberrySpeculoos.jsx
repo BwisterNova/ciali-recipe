@@ -4,7 +4,7 @@ import {
   FiFolder,
 } from "react-icons/fi";
 import styles from "./raspberrySpeculoos.module.css";
-import RaspberrySpeculoosImage from "./Images/imageye___-_Raspberry-and-Speculoos-Verrines.jpeg";
+import RaspberrySpeculoosImage from "./Images/RaspberrySpeculoosImage.jpeg";
 import { useNavigate, useLocation } from "react-router-dom";
 import { useEffect } from "react";
 

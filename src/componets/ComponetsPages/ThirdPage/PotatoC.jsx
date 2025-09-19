@@ -4,7 +4,7 @@ import {
   FiFolder,
 } from "react-icons/fi";
 import styles from "./potatoC.module.css";
-import PotatoCImage from "./Images/imageye___-_Potato-Croquettes-with-Raw-Ham.jpeg";
+import PotatoCImage from "./Images/PotatoCImage.jpeg";
 import { useNavigate, useLocation } from "react-router-dom";
 import { useEffect } from "react";
 

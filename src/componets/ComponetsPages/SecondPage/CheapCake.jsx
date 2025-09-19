@@ -4,7 +4,7 @@ import {
   FiFolder,
 } from "react-icons/fi";
 import styles from "./cheapCake.module.css";
-import cheapCakeImage from "./Images/imageye___-_Cheap-Soft-Apple-Cake.jpeg";
+import cheapCakeImage from "./Images/cheapCakeImage.jpeg";
 import { useNavigate, useLocation } from "react-router-dom";
 import { useEffect } from "react";
 

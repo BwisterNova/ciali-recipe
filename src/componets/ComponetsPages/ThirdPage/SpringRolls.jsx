@@ -4,7 +4,7 @@ import {
   FiFolder,
 } from "react-icons/fi";
 import styles from "./springRolls.module.css";
-import SpringRollsImage from "./Images/imageye___-_Spring-Rolls-with-Crab-Chinese-Cabbage-and-Bamboo-Shoots.jpeg";
+import SpringRollsImage from "./Images/SpringRollsImage.jpeg";
 import { useNavigate, useLocation } from "react-router-dom";
 import { useEffect } from "react";
 

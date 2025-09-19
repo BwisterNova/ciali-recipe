@@ -4,7 +4,7 @@ import {
   FiFolder,
 } from "react-icons/fi";
 import styles from "./whiteChocolate.module.css";
-import WhiteChocolateImage from "./Images/imageye___-_White-Chocolate-Raspberry-Layer-Cake.jpeg";
+import WhiteChocolateImage from "./Images/WhiteChocolateImage.jpeg";
 import { useNavigate, useLocation } from "react-router-dom";
 import { useEffect } from "react";
 

@@ -4,7 +4,7 @@ import {
   FiFolder,
 } from "react-icons/fi";
 import styles from "./butternutSquash.module.css";
-import ButternutSquashImage from "./Images/imageye___-_Butternut-Squash-and-Ham-Quiche.jpeg";
+import ButternutSquashImage from "./Images/ButternutSquashImage.jpeg";
 import { useNavigate, useLocation } from "react-router-dom";
 import { useEffect } from "react";
 

@@ -4,7 +4,7 @@ import {
   FiFolder,
 } from "react-icons/fi";
 import styles from "./raspberryPistachio.module.css";
-import RaspberryPistachioImage from "./Images/imageye___-_Raspberry-and-Pistachio-Yule-Log.jpeg";
+import RaspberryPistachioImage from "./Images/RaspberryPistachioImage.jpeg";
 import { useNavigate, useLocation } from "react-router-dom";
 import { useEffect } from "react";
 

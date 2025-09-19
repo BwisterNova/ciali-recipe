@@ -4,7 +4,7 @@ import {
   FiFolder,
 } from "react-icons/fi";
 import styles from "./kondel.module.css";
-import KnodelImage from "./Images/imageye___-_Knodel-Austrian-Savory-Bread-Dumplings.jpeg";
+import KnodelImage from "./Images/KnodelImage.jpeg";
 import { useNavigate, useLocation } from "react-router-dom";
 import { useEffect } from "react";
 

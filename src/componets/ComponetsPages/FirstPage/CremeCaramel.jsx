@@ -4,7 +4,7 @@ import {
   FiFolder,
 } from "react-icons/fi";
 import styles from "./cremeCaramel.module.css";
-import cremeImage from "./Images/Creme-Caramel-A-Classic-Dessert-with-Milk-and-Eggs.jpg";
+import cremeImage from "./Images/cremeImage.jpg";
 import { useNavigate, useLocation } from "react-router-dom";
 import { useEffect } from "react";
 

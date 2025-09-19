@@ -4,7 +4,7 @@ import {
   FiFolder,
 } from "react-icons/fi";
 import styles from "./potatoTortilla.module.css";
-import PotatoTortillaImage from "./Images/imageye___-_Potato-Tortilla.jpeg";
+import PotatoTortillaImage from "./Images/PotatoTortillaImage.jpeg";
 import { useNavigate, useLocation } from "react-router-dom";
 import { useEffect } from "react";
 

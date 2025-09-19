@@ -4,7 +4,7 @@ import {
   FiFolder,
 } from "react-icons/fi";
 import styles from "./italianPasta.module.css";
-import ItalianPastaImage from "./Images/imageye___-_Italian-Carbonara-Pasta-Without-Cream.jpeg";
+import ItalianPastaImage from "./Images/ItalianPastaImage.jpeg";
 import { useNavigate, useLocation } from "react-router-dom";
 import { useEffect } from "react";
 

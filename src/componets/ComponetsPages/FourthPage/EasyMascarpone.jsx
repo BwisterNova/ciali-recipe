@@ -4,7 +4,7 @@ import {
   FiFolder,
 } from "react-icons/fi";
 import styles from "./easyMascarpone.module.css";
-import EasyMascarponeImage from "./Images/imageye___-_Easy-Mascarpone-and-Raspberry-Christmas-Yule-Log.jpeg";
+import EasyMascarponeImage from "./Images/EasyMascarponeImage.jpeg";
 import { useNavigate, useLocation } from "react-router-dom";
 import { useEffect } from "react";
 

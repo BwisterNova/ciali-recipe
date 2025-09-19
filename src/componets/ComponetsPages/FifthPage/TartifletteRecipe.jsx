@@ -4,7 +4,7 @@ import {
   FiFolder,
 } from "react-icons/fi";
 import styles from "./tartifletteRecipe.module.css";
-import TartifletteRecipeImage from "./Images/imageye___-_Easy-and-Quick-Tartiflette-Recipe.jpeg";
+import TartifletteRecipeImage from "./Images/TartifletteRecipeImage.jpeg";
 import { useNavigate, useLocation } from "react-router-dom";
 import { useEffect } from "react";
 

@@ -4,18 +4,18 @@ import { useNavigate } from "react-router-dom";
 import { FiFolder, FiMessageCircle } from "react-icons/fi";
 
 //images
-import knodelImage from "./Images/imageye___-_Knodel-Austrian-Savory-Bread-Dumplings.jpeg";
-import lasagnaImage from "./Images/imageye___-_Prepare-Easy-Lasagna-Bolognese.jpeg";
-import caponImage from "./Images/imageye___-_Capon-Stuffed-with-Chestnuts-and-Mushrooms.jpeg";
-import counscousImage from "./Images/imageye___-_Traditional-vegetable-couscous.jpeg";
-import porkImage from "./Images/imageye___-_Pork-Tenderloin-in-Puff-Pastry.jpeg";
-import shrimpPizzaImage from "./Images/imageye___-_How-to-Prepare-Shrimp-Pizza.jpeg";
-import pumpkinImage from "./Images/imageye___-_Pumpkin-Stuffed-with-Mushrooms-Onions-and-Bacon.jpeg";
-import pancakesImage from "./Images/imageye___-_How-to-Prepare-Easy-Pancakes.jpeg";
-import paellaImage from "./Images/imageye___-_My-holiday-paella.jpeg";
-import pastaImage from "./Images/imageye___-_Italian-Carbonara-Pasta-Without-Cream.jpeg";
-import hamImage from "./Images/imageye___-_Eggs-with-Ham-A-Simple-and-Delicious-Classic.jpeg";
-import chickenImage from "./Images/imageye___-_Chicken-Risotto.jpeg";
+import knodelImage from "./Images/knodelImage.jpeg";
+import lasagnaImage from "./Images/lasagnaImage.jpeg";
+import caponImage from "./Images/caponImage.jpeg";
+import counscousImage from "./Images/counscousImage.jpeg";
+import porkImage from "./Images/porkImage.jpeg";
+import shrimpPizzaImage from "./Images/shrimpPizzaImage.jpeg";
+import pumpkinImage from "./Images/pumpkinImage.jpeg";
+import pancakesImage from "./Images/pancakesImage.jpeg";
+import paellaImage from "./Images/paellaImage.jpeg";
+import pastaImage from "./Images/pastaImage.jpeg";
+import hamImage from "./Images/hamImage.jpeg";
+import chickenImage from "./Images/chickenImage.jpeg";
 
 export default function Dinner2({ currentPage }) {
   const navigate = useNavigate();

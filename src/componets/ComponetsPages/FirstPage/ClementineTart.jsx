@@ -4,7 +4,7 @@ import {
   FiFolder,
 } from "react-icons/fi";
 import styles from "./clementine.module.css";
-import clementineImage from "./Images/Clementine-Tart-A-Citrusy-Delight.jpg";
+import clementineImage from "./Images/clementineImage.jpg";
 import { useNavigate, useLocation } from "react-router-dom";
 import { useEffect } from "react";
 

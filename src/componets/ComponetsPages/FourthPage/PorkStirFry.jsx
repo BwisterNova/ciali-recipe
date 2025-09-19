@@ -4,7 +4,7 @@ import {
   FiFolder,
 } from "react-icons/fi";
 import styles from "./porkStirFry.module.css";
-import PorkStirFryImage from "./Images/imageye___-_Pork-Stir-Fry-in-the-Cookeo.jpeg";
+import PorkStirFryImage from "./Images/PorkStirFryImage.jpeg";
 import { useNavigate, useLocation } from "react-router-dom";
 import { useEffect } from "react";
 

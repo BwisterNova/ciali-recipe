@@ -4,7 +4,7 @@ import {
   FiFolder,
 } from "react-icons/fi";
 import styles from "./samosasW.module.css";
-import SamosasWImage from "./Images/imageye___-_Samosas-with-Minced-Meat.jpeg";
+import SamosasWImage from "./Images/SamosasWImage.jpeg";
 import { useNavigate, useLocation } from "react-router-dom";
 import { useEffect } from "react";
 

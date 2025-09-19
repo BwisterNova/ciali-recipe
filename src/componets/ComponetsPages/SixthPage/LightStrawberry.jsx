@@ -4,7 +4,7 @@ import {
   FiFolder,
 } from "react-icons/fi";
 import styles from "./lightStrawberry.module.css";
-import LightStrawberryImage from "./Images/imageye___-_Light-Strawberry-Roll-Cake-A-Fresh-and-Fluffy-Delight.jpeg";
+import LightStrawberryImage from "./Images/LightStrawberryImage.jpeg";
 import { useNavigate, useLocation } from "react-router-dom";
 import { useEffect } from "react";
 

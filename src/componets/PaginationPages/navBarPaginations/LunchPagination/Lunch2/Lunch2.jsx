@@ -3,17 +3,17 @@ import { useNavigate } from "react-router-dom";
 import { FiFolder, FiMessageCircle } from "react-icons/fi";
 
 //for images
-import springRolls from "./Images/imageye___-_Spring-Rolls-with-Crab-Chinese-Cabbage-and-Bamboo-Shoots.jpeg";
-import blinisImage from "./Images/imageye___-_Revisited-Blinis-with-Buckwheat-and-Smoked-Salmon.jpeg";
-import quchieImage from "./Images/imageye___-_Crustless-and-Gluten-Free-Quiche-A-Delicious-and-Versatile-Dish.jpeg";
-import salmonImage from "./Images/imageye___-_Salmon-Blanquette-with-Vegetables-and-Poulette-Sauce.jpeg";
-import lasagnaImage from "./Images/imageye___-_Perfect-Lasagna-Soup.jpeg";
-import tartImage from "./Images/imageye___-_Easy-and-Quick-Tartiflette-Recipe.jpeg";
-import vegImage from "./Images/imageye___-_My-Grandmothers-Stuffed-Vegetables.jpeg";
-import butternutImage from "./Images/imageye___-_Butternut-Squash-and-Ham-Quiche.jpeg";
-import bakedImage from "./Images/imageye___-_Baked-Butternut-Squash-Gratin-with-Comte-and-Thyme.jpeg";
-import winterVegImage from "./Images/imageye___-_Winter-Vegetable-Flan.jpeg";
-import caponImage from "./Images/imageye___-_Capon-Supreme-with-Morels.jpeg";
+import springRolls from "./Images/springRolls.jpeg";
+import blinisImage from "./Images/blinisImage.jpeg";
+import quchieImage from "./Images/quchieImage.jpeg";
+import salmonImage from "./Images/salmonImage.jpeg";
+import lasagnaImage from "./Images/lasagnaImage.jpeg";
+import tartImage from "./Images/tartImage.jpeg";
+import vegImage from "./Images/vegImage.jpeg";
+import butternutImage from "./Images/butternutImage.jpeg";
+import bakedImage from "./Images/bakedImage.jpeg";
+import winterVegImage from "./Images/winterVegImage.jpeg";
+import caponImage from "./Images/caponImage.jpeg";
 
 export default function Lunch2({ currentPage }) {
   const navigate = useNavigate();

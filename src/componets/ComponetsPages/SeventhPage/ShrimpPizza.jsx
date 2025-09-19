@@ -4,7 +4,7 @@ import {
   FiFolder,
 } from "react-icons/fi";
 import styles from "./shrimpPizza.module.css";
-import ShrimpPizzaImage from "./Images/imageye___-_How-to-Prepare-Shrimp-Pizza.jpeg";
+import ShrimpPizzaImage from "./Images/ShrimpPizzaImage.jpeg";
 import { useNavigate, useLocation } from "react-router-dom";
 import { useEffect } from "react";
 

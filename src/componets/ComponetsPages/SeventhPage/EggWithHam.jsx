@@ -4,7 +4,7 @@ import {
   FiFolder,
 } from "react-icons/fi";
 import styles from "./eggWithHam.module.css";
-import EggWithHamImage from "./Images/imageye___-_Eggs-with-Ham-A-Simple-and-Delicious-Classic.jpeg";
+import EggWithHamImage from "./Images/ChickenRisottoImage.jpeg";
 import { useNavigate, useLocation } from "react-router-dom";
 import { useEffect } from "react";
 

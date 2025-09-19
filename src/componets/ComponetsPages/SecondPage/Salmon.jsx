@@ -4,7 +4,7 @@ import {
   FiFolder,
 } from "react-icons/fi";
 import styles from "./salmon.module.css";
-import salmonImage from "./Images/imageye___-_Salmon-and-spinach-lasagna.jpeg";
+import salmonImage from "./Images/salmonImage.jpeg";
 import { useNavigate, useLocation } from "react-router-dom";
 import { useEffect } from "react";
 

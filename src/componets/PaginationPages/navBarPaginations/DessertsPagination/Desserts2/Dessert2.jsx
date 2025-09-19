@@ -2,17 +2,17 @@ import { useNavigate } from "react-router-dom";
 import styles from "./dessert2.module.css";
 import { FiFolder, FiMessageCircle } from "react-icons/fi";
 //for images
-import mascarponeImage from "./Images/imageye___-_Apple-Mascarpone-Cake.jpeg";
-import strudelImage from "./Images/imageye___-_Apple-Strudel-A-Classic-Dessert-with-a-Warm-Spiced-Filling.jpeg";
-import puddingImage from "./Images/imageye___-_Baked-Rice-Pudding-A-Creamy-Comforting-Dessert.jpeg";
-import easyMascarponeImage from "./Images/imageye___-_Easy-Mascarpone-and-Raspberry-Christmas-Yule-Log.jpeg";
-import cakeImage from "./Images/imageye___-_Christmas-Cake-with-Pear-Speculoos-and-Salted-Butter-Caramel.jpeg";
-import chocolateImage from "./Images/imageye___-_White-Chocolate-Raspberry-Layer-Cake.jpeg";
-import iceCreamImage from "./Images/imageye___-_Easy-Ice-Cream-Log-for-Christmas.jpeg";
-import pancakesImage from "./Images/imageye___-_Easy-Thousand-Hole-Pancakes.jpeg";
-import rollCakeImage from "./Images/imageye___-_Light-Strawberry-Roll-Cake-A-Fresh-and-Fluffy-Delight.jpeg";
-import pumpkinCakeImage from "./Images/imageye___-_Pumpkin-Apple-Cake-A-Cozy-Fall-Delight.jpeg";
-import softPumpkinImage from "./Images/imageye___-_Soft-pumpkin-cake.jpeg";
+import mascarponeImage from "./Images/mascarponeImage.jpeg";
+import strudelImage from "./Images/strudelImage.jpeg";
+import puddingImage from "./Images/puddingImage.jpeg";
+import easyMascarponeImage from "./Images/easyMascarponeImage.jpeg";
+import cakeImage from "./Images/cakeImage.jpeg";
+import chocolateImage from "./Images/chocolateImage.jpeg";
+import iceCreamImage from "./Images/iceCreamImage.jpeg";
+import pancakesImage from "./Images/pancakesImage.jpeg";
+import rollCakeImage from "./Images/rollCakeImage.jpeg";
+import pumpkinCakeImage from "./Images/pumpkinCakeImage.jpeg";
+import softPumpkinImage from "./Images/softPumpkinImage.jpeg";
 
 export default function Desserts2({ currentPage }) {
   const navigate = useNavigate();

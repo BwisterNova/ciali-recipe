@@ -4,7 +4,7 @@ import {
   FiFolder,
 } from "react-icons/fi";
 import styles from "./spicyChicken.module.css";
-import SpicyChickenImage from "./Images/imageye___-_Spicy-Chicken-Spring-Rolls-A-Flavorful-Crunchy-Delight.jpeg";
+import SpicyChickenImage from "./Images/SpicyChickenImage.jpeg";
 import { useNavigate, useLocation } from "react-router-dom";
 import { useEffect } from "react";
 

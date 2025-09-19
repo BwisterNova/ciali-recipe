@@ -4,7 +4,7 @@ import {
   FiFolder,
 } from "react-icons/fi";
 import styles from "./porkTenderlion.module.css";
-import PorkTenderlionImage from "./Images/imageye___-_Pork-Tenderloin-in-Puff-Pastry.jpeg";
+import PorkTenderlionImage from "./Images/PorkTenderlionImage.jpeg";
 import { useNavigate, useLocation } from "react-router-dom";
 import { useEffect } from "react";
 

@@ -4,7 +4,7 @@ import {
   FiFolder,
 } from "react-icons/fi";
 import styles from "./traditionalVegetable.module.css";
-import TraditionalVegetableImage from "./Images/imageye___-_Traditional-vegetable-couscous.jpeg";
+import TraditionalVegetableImage from "./Images/TraditionalVegetableImage.jpeg";
 import { useNavigate, useLocation } from "react-router-dom";
 import { useEffect } from "react";
 

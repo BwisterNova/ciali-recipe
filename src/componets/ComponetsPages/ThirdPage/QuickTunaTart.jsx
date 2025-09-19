@@ -4,7 +4,7 @@ import {
   FiFolder,
 } from "react-icons/fi";
 import styles from "./quickTunaTart.module.css";
-import QuickTunaTartImage from "./Images/imageye___-_Quick-Tuna-Tart-with-Shortcrust-Pastry-The-Best-Recipe.jpeg";
+import QuickTunaTartImage from "./Images/QuickTunaTartImage.jpeg";
 import { useNavigate, useLocation } from "react-router-dom";
 import { useEffect } from "react";
 

@@ -4,7 +4,7 @@ import {
   FiFolder,
 } from "react-icons/fi";
 import styles from "./easyPancakes.module.css";
-import EasyPancakesImage from "./Images/imageye___-_How-to-Prepare-Easy-Pancakes.jpeg";
+import EasyPancakesImage from "./Images/EasyPancakesImage.jpeg";
 import { useNavigate, useLocation } from "react-router-dom";
 import { useEffect } from "react";
 

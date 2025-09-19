@@ -4,7 +4,7 @@ import {
   FiFolder,
 } from "react-icons/fi";
 import styles from "./cakeW.module.css";
-import CakeWImage from "./Images/imageye___-_Cake-with-Sun-Dried-Vegetables-and-Mozzarella.jpeg";
+import CakeWImage from "./Images/CakeWImage.jpeg";
 import { useNavigate, useLocation } from "react-router-dom";
 import { useEffect } from "react";
 

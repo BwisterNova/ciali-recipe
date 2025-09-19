@@ -4,7 +4,7 @@ import {
   FiFolder,
 } from "react-icons/fi";
 import styles from "./caponStuffed.module.css";
-import CaponStuffedImage from "./Images/imageye___-_Capon-Stuffed-with-Chestnuts-and-Mushrooms.jpeg";
+import CaponStuffedImage from "./Images/CaponStuffedImage.jpeg";
 import { useNavigate, useLocation } from "react-router-dom";
 import { useEffect } from "react";
 

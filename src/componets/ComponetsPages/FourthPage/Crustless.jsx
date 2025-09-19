@@ -4,7 +4,7 @@ import {
   FiFolder,
 } from "react-icons/fi";
 import styles from "./crustless.module.css";
-import CrustlessImage from "./Images/imageye___-_Crustless-and-Gluten-Free-Quiche-A-Delicious-and-Versatile-Dish.jpeg";
+import CrustlessImage from "./Images/CrustlessImage.jpeg";
 import { useNavigate, useLocation } from "react-router-dom";
 import { useEffect } from "react";
 

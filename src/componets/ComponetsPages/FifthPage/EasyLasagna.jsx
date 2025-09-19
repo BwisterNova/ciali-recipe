@@ -4,7 +4,7 @@ import {
   FiFolder,
 } from "react-icons/fi";
 import styles from "./easyLasagna.module.css";
-import EasyLasagnaImage from "./Images/imageye___-_Prepare-Easy-Lasagna-Bolognese.jpeg";
+import EasyLasagnaImage from "./Images/EasyLasagnaImage.jpeg";
 import { useNavigate, useLocation } from "react-router-dom";
 import { useEffect } from "react";
 

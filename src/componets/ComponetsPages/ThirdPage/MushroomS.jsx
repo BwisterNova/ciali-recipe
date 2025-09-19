@@ -4,7 +4,7 @@ import {
   FiFolder,
 } from "react-icons/fi";
 import styles from "./mushroomS.module.css";
-import MushroomSImage from "./Images/imageye___-_Mushrooms-Stuffed-with-Cream-Cheese.jpeg";
+import MushroomSImage from "./Images/MushroomSImage.jpeg";
 import { useNavigate, useLocation } from "react-router-dom";
 import { useEffect } from "react";
 

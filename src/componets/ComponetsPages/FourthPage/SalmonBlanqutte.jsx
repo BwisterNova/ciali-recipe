@@ -4,7 +4,7 @@ import {
   FiFolder,
 } from "react-icons/fi";
 import styles from "./salmonBlanqutte.module.css";
-import SalmonBlanqutteImage from "./Images/imageye___-_Salmon-Blanquette-with-Vegetables-and-Poulette-Sauce.jpeg";
+import SalmonBlanqutteImage from "./Images/SalmonBlanqutteImage.jpeg";
 import { useNavigate, useLocation } from "react-router-dom";
 import { useEffect } from "react";
 

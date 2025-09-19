@@ -4,7 +4,7 @@ import {
   FiFolder,
 } from "react-icons/fi";
 import styles from "./bakedRice.module.css";
-import BakedRiceImage from "./Images/imageye___-_Baked-Rice-Pudding-A-Creamy-Comforting-Dessert.jpeg";
+import BakedRiceImage from "./Images/BakedRiceImage.jpeg";
 import { useNavigate, useLocation } from "react-router-dom";
 import { useEffect } from "react";
 

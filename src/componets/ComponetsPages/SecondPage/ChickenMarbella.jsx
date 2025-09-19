@@ -4,7 +4,7 @@ import {
   FiFolder,
 } from "react-icons/fi";
 import styles from "./chickenMarbella.module.css";
-import ChickenMarbellaImage from "./Images/imageye___-_Chicken-Marbella.jpeg";
+import ChickenMarbellaImage from "./Images/ChickenMarbellaImage.jpeg";
 import { useNavigate, useLocation } from "react-router-dom";
 import { useEffect } from "react";
 

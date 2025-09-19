@@ -1,6 +1,6 @@
 import { FiArrowRightCircle, FiFolder } from "react-icons/fi";
 import styles from "../FirstPage/christmasTurkey.module.css";
-import TurkeyImage from "./Images/Preparing-Your-Christmas-Turkey-in-Advance-Tips-and-Recipes.jpg";
+import TurkeyImage from "./Images/TurkeyImage.jpg";
 import { useEffect, useState } from "react";
 import { useLocation } from "react-router-dom";
 

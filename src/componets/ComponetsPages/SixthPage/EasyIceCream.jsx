@@ -4,7 +4,7 @@ import {
   FiFolder,
 } from "react-icons/fi";
 import styles from "./easyIceCream.module.css";
-import EasyIceCreamImage from "./Images/imageye___-_Easy-Ice-Cream-Log-for-Christmas.jpeg";
+import EasyIceCreamImage from "./Images/EasyIceCreamImage.jpeg";
 import { useNavigate, useLocation } from "react-router-dom";
 import { useEffect } from "react";
 

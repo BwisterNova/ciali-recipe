@@ -4,7 +4,7 @@ import {
   FiFolder,
 } from "react-icons/fi";
 import styles from "./appleStrudel.module.css";
-import AppleStrudelImage from "./Images/imageye___-_Apple-Strudel-A-Classic-Dessert-with-a-Warm-Spiced-Filling.jpeg";
+import AppleStrudelImage from "./Images/AppleStrudelImage.jpeg";
 import { useNavigate, useLocation } from "react-router-dom";
 import { useEffect } from "react";
 

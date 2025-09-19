@@ -4,7 +4,7 @@ import {
   FiFolder,
 } from "react-icons/fi";
 import styles from "./smokedSalmon.module.css";
-import SmokedSalmonImage from "./Images/imageye___-_Smoked-Salmon-Millefeuille-with-Lime-Sorbet.jpeg";
+import SmokedSalmonImage from "./Images/SmokedSalmonImage.jpeg";
 import { useNavigate, useLocation } from "react-router-dom";
 import { useEffect } from "react";
 

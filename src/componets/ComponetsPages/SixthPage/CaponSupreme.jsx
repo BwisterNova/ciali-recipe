@@ -4,7 +4,7 @@ import {
   FiFolder,
 } from "react-icons/fi";
 import styles from "./caponSupreme.module.css";
-import CaponSupremeImage from "./Images/imageye___-_Capon-Supreme-with-Morels.jpeg";
+import CaponSupremeImage from "./Images/CaponSupremeImage.jpeg";
 import { useNavigate, useLocation } from "react-router-dom";
 import { useEffect } from "react";
 

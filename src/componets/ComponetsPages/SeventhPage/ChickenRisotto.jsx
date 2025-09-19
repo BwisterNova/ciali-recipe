@@ -4,7 +4,7 @@ import {
   FiFolder,
 } from "react-icons/fi";
 import styles from "./chickenRisotto.module.css";
-import ChickenRisottoImage from "./Images/imageye___-_Eggs-with-Ham-A-Simple-and-Delicious-Classic.jpeg";
+import ChickenRisottoImage from "./Images/ChickenRisottoImage.jpeg";
 import { useNavigate, useLocation } from "react-router-dom";
 import { useEffect } from "react";
 

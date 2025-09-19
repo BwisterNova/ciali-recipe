@@ -4,7 +4,7 @@ import {
   FiFolder,
 } from "react-icons/fi";
 import styles from "./lightChocolate.module.css";
-import LightChocolateImage from "./Images/imageye___-_Light-Chocolate-Mousse.jpeg";
+import LightChocolateImage from "./Images/LightChocolateImage.jpeg";
 import { useNavigate, useLocation } from "react-router-dom";
 import { useEffect } from "react";
 

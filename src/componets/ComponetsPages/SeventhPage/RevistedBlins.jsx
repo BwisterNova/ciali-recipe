@@ -4,7 +4,7 @@ import {
   FiFolder,
 } from "react-icons/fi";
 import styles from "./revistesBlins.module.css";
-import RevistesBlinsImage from "./Images/imageye___-_Revisited-Blinis-with-Buckwheat-and-Smoked-Salmon.jpeg";
+import RevistesBlinsImage from "./Images/RevistesBlinsImage.jpeg";
 import { useNavigate, useLocation } from "react-router-dom";
 import { useEffect } from "react";
 

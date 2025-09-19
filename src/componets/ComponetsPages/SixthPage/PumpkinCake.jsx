@@ -4,7 +4,7 @@ import {
   FiFolder,
 } from "react-icons/fi";
 import styles from "./pumpkinCake.module.css";
-import PumpkinCakeImage from "./Images/imageye___-_Pumpkin-Apple-Cake-A-Cozy-Fall-Delight.jpeg";
+import PumpkinCakeImage from "./Images/PumpkinCakeImage.jpeg";
 import { useNavigate, useLocation } from "react-router-dom";
 import { useEffect } from "react";
 

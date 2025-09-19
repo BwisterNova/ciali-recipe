@@ -4,7 +4,7 @@ import {
   FiFolder,
 } from "react-icons/fi";
 import styles from "./softPumpkinCake.module.css";
-import SoftPumpkinCakeImage from "./Images/imageye___-_Soft-pumpkin-cake.jpeg";
+import SoftPumpkinCakeImage from "./Images/SoftPumpkinCakeImage.jpeg";
 import { useNavigate, useLocation } from "react-router-dom";
 import { useEffect } from "react";
 

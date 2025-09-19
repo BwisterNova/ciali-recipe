@@ -4,7 +4,7 @@ import {
   FiFolder,
 } from "react-icons/fi";
 import styles from "./christmasCake.module.css";
-import ChristmasCakeImage from "./Images/imageye___-_Christmas-Cake-with-Pear-Speculoos-and-Salted-Butter-Caramel.jpeg";
+import ChristmasCakeImage from "./Images/ChristmasCakeImage.jpeg";
 import { useNavigate, useLocation } from "react-router-dom";
 import { useEffect } from "react";
 

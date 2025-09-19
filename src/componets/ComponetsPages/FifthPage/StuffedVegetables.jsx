@@ -4,7 +4,7 @@ import {
   FiFolder,
 } from "react-icons/fi";
 import styles from "./stuffedVegetable.module.css";
-import StuffedVegetableImage from "./Images/imageye___-_My-Grandmothers-Stuffed-Vegetables.jpeg";
+import StuffedVegetableImage from "./Images/StuffedVegetableImage.jpeg";
 import { useNavigate, useLocation } from "react-router-dom";
 import { useEffect } from "react";
 

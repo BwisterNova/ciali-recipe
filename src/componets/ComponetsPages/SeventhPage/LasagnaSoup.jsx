@@ -4,7 +4,7 @@ import {
   FiFolder,
 } from "react-icons/fi";
 import styles from "./lasagnaSoup.module.css";
-import LasagnaSoupImage from "./Images/imageye___-_Perfect-Lasagna-Soup.jpeg";
+import LasagnaSoupImage from "./Images/LasagnaSoupImage.jpeg";
 import { useNavigate, useLocation } from "react-router-dom";
 import { useEffect } from "react";
 

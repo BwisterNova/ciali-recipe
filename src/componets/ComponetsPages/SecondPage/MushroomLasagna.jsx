@@ -4,7 +4,7 @@ import {
   FiFolder,
 } from "react-icons/fi";
 import styles from "./mushroomLasagna.module.css";
-import mushroomLasagnaImage from "./Images/imageye___-_Mushroom-Lasagna.jpeg";
+import mushroomLasagnaImage from "./Images/mushroomLasagnaImage.jpeg";
 import { useNavigate, useLocation } from "react-router-dom";
 import { useEffect } from "react";
 

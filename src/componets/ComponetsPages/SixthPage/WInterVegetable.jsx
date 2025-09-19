@@ -4,7 +4,7 @@ import {
   FiFolder,
 } from "react-icons/fi";
 import styles from "./winterVegetable.module.css";
-import WinterVegetableImage from "./Images/imageye___-_Winter-Vegetable-Flan.jpeg";
+import WinterVegetableImage from "./Images/WinterVegetableImage.jpeg";
 import { useNavigate, useLocation } from "react-router-dom";
 import { useEffect } from "react";
 
